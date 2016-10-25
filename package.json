@@ -38,7 +38,7 @@
   "dependencies": {
     "chance": "^1.0.4",
     "deref": "^0.6.4",
-    "faker": "kristianmandrup/faker#master",
+    "faker": "github:kristianmandrup/faker.js#master",
     "randexp": "~0.4.3"
   },
   "devDependencies": {
